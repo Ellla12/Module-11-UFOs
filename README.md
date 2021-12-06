@@ -9,8 +9,10 @@ For the Module 11 Challenge, we further help Dana by adding a more in-depth anal
 - Add table filters for city, state, country, and shape
 
 ## Results
+![Results1](https://github.com/Ellla12/Module-11-UFOs/blob/main/static/images/results1.png)
 To use the webpage, the user can open up the UFO sightings page and look at the raw data-set as a whole. They can scroll down and go through all the listed information.
 
+![Results2](https://github.com/Ellla12/Module-11-UFOs/blob/main/static/images/results2.png)
 To get a more in-depth analysis, they can add in filter details to narrow down their search of UFO information. For example, if I wanted to search for UFO sighting information from only California, all I would need to do is add in the CA filter and click on the filter button.
 
 ## Summary
